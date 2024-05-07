@@ -4,7 +4,7 @@
 
 #### Overview:
 
-This project is an open-source website template designed for local government colleges. It encompasses essential features required for a college website, including information about the college, faculty details, course offerings, an application form for enrollment, notifications, and contact information. While the signup feature is pending implementation due to budget constraints, the project is open for contributions and enhancements.
+Actually this project was initially a freelance project given to me by a local goverment college of my area but now this project is an open-source website template for any college website. It encompasses essential features required for a college website, including information about the college, faculty details, course offerings, an application form for enrollment, notifications, and contact information. While the signup feature is pending implementation due to budget constraints, the project is open for contributions and enhancements.
 
 #### Getting Started:
 
