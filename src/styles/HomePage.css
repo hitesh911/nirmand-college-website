@@ -1,0 +1,19 @@
+.about-home-section{
+        font-size: var(--size-200);
+       margin-top: 6rem !important;
+}
+.about-home-section > p{
+        height: 29.5rem;
+}
+.about-heading{
+        border-bottom: 1px solid var(--clr-primary-100);
+}
+.teaching-section{
+        margin-top: 3rem !important;
+}
+.teaching-section > h1{
+        color: var(--clr-primary-75);
+
+        margin-left: 1rem;
+        text-decoration: underline;
+}

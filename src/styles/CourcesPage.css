@@ -1,0 +1,44 @@
+.cource-details > h1{
+        font-size: var(--fs-600);
+        font-family: var(--ff-primary-bold);
+        line-height: 1;
+        padding-bottom: .5rem;
+
+}
+.cource-details > small{
+        font-size: 0.87453rem;
+}
+.modal-line-open{
+    background-color: var(--clr-primary-100) !important;
+}
+.table-container {
+    overflow: auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
+  
+  th,
+  td {
+    border: 1px solid var(--clr-primary-100);
+    padding: 8px;
+    text-align: left;
+  }
+  
+  
+  thead {
+    background-color: var(--clr-primary-400);
+  }
+  
+  tbody tr:hover {
+    background-color: var(--clr-primary-400);
+  }
+  .ReactModal__Content > h2{
+    font-size: var(--fs-500);
+    font-family: var(--ff-primary-bold);
+    line-height: 1;
+    padding-bottom: .9rem;
+  }

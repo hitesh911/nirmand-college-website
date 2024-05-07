@@ -1,0 +1,9 @@
+.notification-section > h1{
+    text-align: left !important;
+    padding: .5rem 0 !important;
+
+}
+.notification-section {
+    font-size: var(--fs-200);
+
+}

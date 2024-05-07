@@ -1,0 +1,36 @@
+{
+    "homePage": {
+        "SectionWithImageFirst": {
+            "imageSrc":null,
+            "imageAlt":null,
+            "heading": "Unlocking greatness, fueling success, and ",
+            "typeWriterHeading":["Making an Impact","Fueling Success","Creating Change"],
+            "paragraph": {
+                "beforeBreakPoint":"At Nirmand College, we take immense pride in our rich history of academic excellence and remarkable achievements.",
+                "afterBreakPoint":" With a distinguished faculty, state-of-the-art facilities, and a nurturing environment, we are committed to empowering students to surpass their potential. "
+            },
+            "button1": {
+                "text": "Admit now",
+                "redirection" : "/upload"
+            },
+            "button2": {
+                "text": "See Cources",
+                "redirection" : "/search"
+            },
+            "imageOnLeft":false
+            
+        }
+    },
+    "homeImages":[
+
+        {
+          "original": "/collegeImages/clgImg1.jpg"
+        },
+        {
+          "original": "/collegeImages/clgImg2.jpg"
+        }
+      ],
+      "AboutData":{
+        "paragraph":"The second largest village Nirmand had been in existence since the early Vedic period. A number of ancient stone and wooden temples dating back to the 6th and 7th centuries A.D. speak of Nirmand’s religious and historical importance. It is also called “ Kashi of the Himalayas”. A temple dedicated to the Goddess Ambika a form of Hindu goddess Durga is also amongst the oldest shrines. A Parshuram Temple complex built in traditional Pahari Style is also here. The place Nirmand is 17 k.m from Rampur and about 150 km towards east of Shimla. The college was     established     in     the     year     2016     vide     notification     No.      EDN-A-KA   (1)4/2012 dated 16th May 2016 of the Govt. of Himachal Pradesh. The college is adorned with green sloppy fields and tall leafy trees, which means the place where the college is presently running is ideal centre for learning and knowledge. It is a Co-educational institution affiliated to Himachal Pradesh University Shimla and imparts meaningful education in the faculties of Humanities and Commerce. The college has capable teachers fully committed to take the students to academic heights. Now the college has well established Library which has about 700 books and seating capacity for 50 students at a time. The college has also established two Smart Class Rooms in the year 2020-21 for the better learning of students. I heartily welcome all of you for joining this college during the session 2022-23. Your co-operation is highly solicited to uphold academic traditions and value of this institution. Together we can take this college to new academic horizon with your youthful energy and our broad vision and noble leadership. I have firm faith in you. May fortune smile on you forever!"
+      }
+}
